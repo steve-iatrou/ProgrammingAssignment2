@@ -1,4 +1,3 @@
-## test line in
 ## This assignment has two functions that can be used to calculate the inverse of a matrix,
 ## cache it and then retrieve it. If the inverse is cached, it returns the cached value. 
 ## If not, it calculates it and caches it. The functions use "lexical scoping" to maintain
